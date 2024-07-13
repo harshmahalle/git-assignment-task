@@ -1,1 +1,1 @@
-This is a conflicting change.
+resolved read me file
